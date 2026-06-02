@@ -1,0 +1,15 @@
+# 引擎内部文件（不需要提交）
+engine-docs/
+examples/
+templates/
+urhox-libs/
+schemas/
+.emmylua/
+.claude/
+.project/
+.tmp/
+.build/
+dist/
+logs/
+node_modules/
+*.meta
